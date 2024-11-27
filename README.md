@@ -59,9 +59,11 @@ python nome_do_script.py
 ### Em Ambientes Online (Google Colab, Kaggle)
 
 **Google Colab**
+
 O pandas e o plotly já estão instalados. Basta importar as bibliotecas e carregar o arquivo.
 
 **Kaggle Notebooks**
+
 Utilize o caminho correto para carregar o arquivo:
 
 tabela = pd.read_csv("../input/credit-card-customers/ClientesBanco.csv", encoding="latin1")
@@ -70,7 +72,7 @@ tabela = pd.read_csv("../input/credit-card-customers/ClientesBanco.csv", encodin
 1. Faça o download do arquivo ClientesBanco.csv [aqui](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
 2. Configure o ambiente conforme descrito acima.
 3. Execute o script principal no terminal ou no notebook.
-4. 
+
 ## Instruções de Uso
 
 1. Faça o download da base de dados do Kaggle .  
