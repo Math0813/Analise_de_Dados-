@@ -56,7 +56,7 @@ Este projeto analisa os principais fatores que levam clientes a cancelar seus ca
 Salve o script como um arquivo .py e rode no terminal:
 python nome_do_script.py
 
-**Em Ambientes Online (Google Colab, Kaggle)**
+##**Em Ambientes Online (Google Colab, Kaggle)**
 
 **Google Colab**
 O pandas e o plotly já estão instalados. Basta importar as bibliotecas e carregar o arquivo.
